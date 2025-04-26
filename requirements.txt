@@ -1,0 +1,12 @@
+unstructured[all-docs]
+pillow
+lxml
+tiktoken
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+python-dotenv
+openai
+streamlit
+chromadb
