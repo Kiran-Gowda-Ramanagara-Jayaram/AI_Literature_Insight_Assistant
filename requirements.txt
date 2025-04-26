@@ -10,3 +10,5 @@ python-dotenv
 openai
 streamlit
 chromadb
+streamlit-lottie
+requests
