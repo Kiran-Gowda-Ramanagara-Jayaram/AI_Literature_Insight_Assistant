@@ -12,3 +12,4 @@ streamlit
 chromadb
 streamlit-lottie
 requests
+opencv-python-headless
